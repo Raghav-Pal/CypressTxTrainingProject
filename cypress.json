@@ -1,5 +1,5 @@
 {
-    "watchForFileChanges":true,
+    "watchForFileChanges":false,
     "defaultCommandTimeout":4000,
     "experimentalStudio":true,
     "projectId": "exajsc"
