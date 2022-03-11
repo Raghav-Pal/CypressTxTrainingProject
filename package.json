@@ -1,0 +1,16 @@
+{
+  "name": "txcypressdemo",
+  "version": "1.0.0",
+  "description": "my first cypress project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "log-hello" : "echo Hello World"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.0"
+  }
+}
